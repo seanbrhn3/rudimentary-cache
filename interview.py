@@ -68,3 +68,5 @@ def check_expiration():
 
 setVal("sdfsdfsdfsfsdfds")
 print(check_expiration())
+
+# python interview.py to run the script
